@@ -35,8 +35,8 @@ This repository does **not** contain the source code.
 
 ## Downloads
 
--[CurseForge](https://www.curseforge.com/minecraft/mc-mods/academycardalbum)
--[Modrinth](https://modrinth.com/mod/academycardalbumplus) Under review
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/academycardalbum)
+- [Modrinth](https://modrinth.com/mod/academycardalbumplus) Under review
 
 ## Links
 
