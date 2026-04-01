@@ -33,9 +33,10 @@ Ce dépôt ne contient **pas** le code source.
 - Utilisez les **GitHub Issues** pour les bugs, demandes de fonctionnalités et problèmes de compatibilité
 - Utilisez **Discord** pour l’aide communautaire et le support
 
-## Téléchargements
+## Downloads
 
-Les liens de téléchargement pourront être ajoutés ici après la sortie publique.
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/academycardalbum)
+- [Modrinth](https://modrinth.com/mod/academycardalbumplus) Vérification
 
 ## Liens
 
