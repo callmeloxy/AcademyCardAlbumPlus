@@ -8,7 +8,7 @@ Choose your language / Choisissez votre langue
 ## Quick Links / Liens rapides
 
 - [Issues](https://github.com/callmeloxy/AcademyCardAlbumPlus/issues)
-- [Changelog](https://github.com/callmeloxy/AcademyCardAlbumPlus/blob/main/Changelog)
+- [Changelog](https://github.com/callmeloxy/AcademyCardAlbumPlus/blob/main/Changelog.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
