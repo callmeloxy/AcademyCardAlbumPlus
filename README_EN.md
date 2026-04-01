@@ -40,5 +40,5 @@ Download links may be added here after the public release.
 ## Links
 
 - [Issues](https://github.com/callmeloxy/AcademyCardAlbumPlus/issues)
-- [Changelog](https://github.com/callmeloxy/AcademyCardAlbumPlus/blob/main/Changelog)
+- [Changelog](https://github.com/callmeloxy/AcademyCardAlbumPlus/blob/main/Changelog.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
