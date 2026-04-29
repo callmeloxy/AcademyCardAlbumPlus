@@ -33,10 +33,16 @@ Ce dépôt ne contient **pas** le code source.
 - Utilisez les **GitHub Issues** pour les bugs, demandes de fonctionnalités et problèmes de compatibilité
 - Utilisez **Discord** pour l’aide communautaire et le support
 
+## Hébergement de serveur
+
+If you would like to host a server for CobbleSpawnAlert Reforged while supporting the project, you can use this BisectHosting partner link:
+
+- [BisectHosting](https://www.bisecthosting.com/curseforge?curseforge_project_id=1501233&dl=1)
+
 ## Downloads
 
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/academycardalbum)
-- [Modrinth](https://modrinth.com/mod/academycardalbumplus) Vérification
+- [Modrinth](https://modrinth.com/mod/academycardalbumplus)
 
 ## Liens
 
